@@ -31,6 +31,14 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/drone-photo.jpeg"
+- template: 2-column-text
+  block: two-column-1
+  col_2:
+    headline: Header 2
+    content: <img src="/uploads/2018/06/21/product-shot-1.png"><br><br>Header 2
+  col_1:
+    headline: ''
+    content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
